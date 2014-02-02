@@ -1,0 +1,23 @@
+{
+  "Appointments": [
+    {
+      "Id":        "001",
+      "From":      "2014-01-27T12:00:00-08:00",
+      "To":        "2014-01-27T18:00:00-08:00",
+      "Location":  "Walt's house",
+      "Subject":   "birthday party",
+      "Body":      "something about cake.",
+      "Attendees": [],
+      "Resources": []
+    }, {
+      "Id":        "002",
+      "From":      "2014-01-27T12:00:00-08:00",
+      "To":        "2014-01-27T12:00:00-08:00",
+      "Location":  "Houston, TX",
+      "Subject":   "GPS Installation",
+      "Body":      "Under the barrel, not on it.",
+      "Attendees": [],
+      "Resources": []
+    }
+  ]
+}

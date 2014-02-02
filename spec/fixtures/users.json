@@ -1,0 +1,11 @@
+{
+  "Contacts": [
+    {
+      "DisplayName": "Hank",
+      "Email": "asac@dea.breakingbad.gov"
+    }, {
+      "DisplayName": "Gomez",
+      "Email": "gomez@dea.breakingbad.gov"
+    }
+  ]
+}

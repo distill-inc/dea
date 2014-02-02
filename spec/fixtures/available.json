@@ -1,0 +1,11 @@
+{
+  "Contacts": [
+    {
+      "DisplayName": "bobert bobertson",
+      "Email": "bobert@example.com"
+    }, {
+      "DisplayName": "belizabeth belizman",
+      "Email": "beliz@example.com"
+    }
+  ]
+}
