@@ -56,7 +56,6 @@ module Dea
         })
       end
 
-      # This is stupid
       def available?(auth_token, options)
         Dea::Http.get('schedule', {
           params: events_params(options),
